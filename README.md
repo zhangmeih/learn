@@ -5,7 +5,8 @@
 using namespace std;
 int main()
 {
-	cout << "修改" <<endl;
+    int a = 7;
+    cout << a << endl;
 	return 0;
 }
 ```
