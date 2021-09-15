@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-    int a = 7;
+    int a = 1010;
     cout << a << endl;
 	return 0;
 }
