@@ -10,7 +10,6 @@ int main()
     cout << "从远程到本地仓库" << endl; 
     cout << "csdn" << endl;
     cout << a << endl;
-    瞎写的
 	return 0;
 }
 ```
